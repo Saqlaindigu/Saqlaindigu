@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://your-image-url.com" alt="Saqlain's Profile Image" style="border-radius: 50%; width: 200px; height: 200px; border: 5px solid #f39c12; box-shadow: 0 0 20px #f39c12;" />
+  <img src="https://share.icloud.com/photos/0d3OnZj3hJUu-P9nQaellK42A" alt="Saqlain's Profile Image" style="border-radius: 50%; width: 200px; height: 200px; border: 5px solid #f39c12; box-shadow: 0 0 20px #f39c12;" />
   <h1>Hey there! 👋 I'm Saqlain.</h1>
 </div>
 
 ---
 
 <div align="center">
-  <p>A tech enthusiast from Bengaluru, Karnataka, with a passion for Full Stack Development and a keen interest in integrating ML & AI into web applications to create innovative solutions.</p>
+  <p>A tech enthusiast from Bengaluru, Karnataka, passionate about Full Stack Development and a keen interest in integrating ML & AI into web applications to create innovative solutions.</p>
 </div>
 
 ---
