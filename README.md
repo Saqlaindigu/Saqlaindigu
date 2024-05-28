@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <p>A tech enthusiast from Bengaluru, Karnataka, passionate about Full Stack Development and a keen interest in integrating ML & AI into web applications to create innovative solutions.</p>
+  <p>A tech enthusiast from Pulwama, Jammu and Kashmir, passionate about Full Stack Development and a keen interest in integrating ML & AI into web applications to create innovative solutions.</p>
 </div>
 
 ---
