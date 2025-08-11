@@ -1,42 +1,61 @@
 <div align="center">
-  <h1>Hey there! 👋 I'm Saqlain Digu.</h1>
+  <h1>Hey, I'm Saqlain Digu 👋</h1>
+  <p><b>Software Engineer</b> • <b>AI + Web</b> • <b>Content Creator</b></p>
+  <p>I build AI-powered web apps and share the journey along the way.</p>
 </div>
 
 ---
 
 <div align="center">
-  <p>A tech enthusiast from Pulwama, Jammu and Kashmir, passionate about Full Stack Development and a keen interest in integrating ML & AI into web applications to create innovative solutions.</p>
+  <a href="mailto:Saqlainyousuf999@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/saqlaindigu">💼 LinkedIn</a> •
+  <a href="https://instagram.com/saqlaindigu">📸 Instagram</a>
 </div>
 
 ---
 
-<h3 align="center">About Me</h3>
-<p align="center">
-  🚀 Graduated in B.Tech, Integrating ML & AI into web applications to create the products of tomorrow<br>
-  💻 Full Stack Developer with a creative approach to problem-solving.<br>
-  🌱 Always learning and exploring new technologies.<br>
-  💡 Looking to collaborate on projects that blend technology and creativity.
-</p>
+### About Me
+- 🏙️ Bengaluru-based (from Pulwama, J&K), working across **Python/Django**, **TypeScript/React**, and **AI tooling**.  
+- 🚀 I integrate **ML/AI** into web applications to ship products that are fast, useful, and beautiful.  
+- 🧠 I love simplifying complex tech for the internet—short, crisp explainers and behind-the-scenes builds.  
+- 🤝 Open to collaborating on ideas that blend **engineering + storytelling**.
 
 ---
 
-<h3 align="center">Fun Facts</h3>
-<p align="center">
-  🏋️‍♂️ Fitness enthusiast and gym regular.<br>
-  📝 Enjoys creating engaging content, from blog posts to videos.<br>
-  🎨 Loves experimenting with new art forms and creative expressions.
-</p>
+### What I’m Building (Now)
+- 📈 **AI Influencer Marketing Platform (Insta Insights)** — automating discovery, matching, and campaign analytics with agents & workflows.  
+- 🗣️ **KashmirGPT** — Kashmiri-first assistant using translation + LLMs to make tech more accessible.  
+- 🎥 **The Tech Behind It** — bite-sized content breaking down the tech inside products (drones first, more coming).
 
 ---
 
-<h3 align="center">Get in Touch</h3>
-<p align="center">
-  📫 Email me at Saqlainyousuf999@gmail.com<br>
-  🔗 Connect with me on <a href="https://www.linkedin.com/in/saqlaindigu">LinkedIn</a>
-</p>
+### Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,next,tailwind,bootstrap,nodejs,express,redis,postgres,mysql,git,github,linux,azure" alt="Tech stack icons" />
+</div>
+
+- Core: **Python, Django, FastAPI, TypeScript, React/Next.js**  
+- Data & Infra: **PostgreSQL, MySQL, Redis**, **Azure**  
+- Frontend: **Tailwind CSS, Bootstrap**, clean UI/UX with motion & micro-interactions  
+- AI: **LLM APIs**, prompt engineering, agentic workflows, evals
+
+---
+
+### Fun Facts
+- 🏋️‍♂️ Gym regular—consistency > motivation.  
+- 📝 I script, shoot, and edit short tech videos (90-sec explainers are my jam).  
+- 🎨 I experiment with design, motion, and storytelling to make tech feel alive.
+
+---
+
+### Get in Touch
+- 📫 **Saqlainyousuf999@gmail.com**  
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/saqlaindigu">saqlaindigu</a>  
+- 🌐 **Instagram:** <a href="https://instagram.com/saqlaindigu">@saqlaindigu</a>
 
 ---
 
 <div align="center">
-  <p>Let's connect and create something extraordinary together! 🚀</p>
+  <i>Let’s build something people actually use — and make it look good. 🚀</i><br/>
+  <sub>Last updated: August 11, 2025</sub>
 </div>
