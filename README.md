@@ -22,13 +22,6 @@
 
 ---
 
-### What I’m Building (Now)
-- 📈 **AI Influencer Marketing Platform (Insta Insights)** — automating discovery, matching, and campaign analytics with agents & workflows.  
-- 🗣️ **KashmirGPT** — Kashmiri-first assistant using translation + LLMs to make tech more accessible.  
-- 🎥 **The Tech Behind It** — bite-sized content breaking down the tech inside products (drones first, more coming).
-
----
-
 ### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,next,tailwind,bootstrap,nodejs,express,redis,postgres,mysql,git,github,linux,azure" alt="Tech stack icons" />
