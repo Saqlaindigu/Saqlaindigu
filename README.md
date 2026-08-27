@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Saqlain Digu 👋</h1>
-  <p><b>Software Engineer</b> • <b>Storyteller or Content Creation. </b></p>
+  <p><b>Software Engineer</b> • <b>Storyteller. </b></p>
   <p>I build AI-powered web apps and share the journey along the way.</p>
 </div>
 
