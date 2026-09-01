@@ -6,7 +6,7 @@
 
 **I build companies, products & stories on the internet.**
 
-Engineering things with **AI, software, media, design, and distribution** from Kashmir.
+Engineering things with **AI, software, media, design, and distribution** .
 
 <br/>
 
